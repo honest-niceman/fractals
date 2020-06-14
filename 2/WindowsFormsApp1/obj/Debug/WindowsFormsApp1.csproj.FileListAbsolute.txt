@@ -1,0 +1,39 @@
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-En.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Fr.resources
+C:\Users\Георгий\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Ru.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Fr.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Ru.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-En.resources
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\УЧЁБА\2 Курс\Лабораторная работа  №2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Fr.resources
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-Ru.resources
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lang-En.resources
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Новая папка\УЧЁБА\2 Курс\КГ\Лабы\2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
